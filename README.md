@@ -1,4 +1,4 @@
-# ustring-string-formation
+# ustring
 made it for myself
 
 # how to use:
